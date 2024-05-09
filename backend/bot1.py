@@ -1,3 +1,5 @@
+# This bot was created following https://www.lambdatest.com/learning-hub/install-selenium-python tutorial for python selenium
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
